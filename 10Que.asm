@@ -17,5 +17,5 @@ TransferLoop
 
 SourceAddr    DCD 0x11111111, 0x22222222, 0x33333333, 0x44444444 ; Source data
 DestAddr      SPACE 16                     ; Reserve space for destination (16 bytes)
-BlockSize     DCD 16                       ;Define block size (in bytes)
+BlockSize     DCD 16                       
 	END
